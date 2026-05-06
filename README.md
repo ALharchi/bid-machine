@@ -1,3 +1,3 @@
 # Bid Machine
 
-Bid Machine is a tool to monitor 
+Internal tool for managing bids to public architectural tenders.
